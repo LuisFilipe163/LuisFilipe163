@@ -13,7 +13,7 @@
 
 - 📄 Meu Curriculo [https://drive.google.com/file/d/1Rh3ik3bYnijkKvTKDfvTZGp9zQDQfsd4/view?usp=sharing](https://drive.google.com/file/d/1Rh3ik3bYnijkKvTKDfvTZGp9zQDQfsd4/view?usp=sharing)
 
-<h3 align="left">Minhas Redes:</h3>
+<h3 align="left">Minhas redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luis-filipe-rezende" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-filipe-rezende" height="30" width="40" /></a>
 <a href="https://instagram.com/luis_filipe163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis_filipe163" height="30" width="40" /></a>
