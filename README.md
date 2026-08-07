@@ -12,7 +12,7 @@
 
 - 🔭 Atualmente estagiando na **VidrosRio**, onde trabalho na manutenção e evolução de um sistema corporativo em **C# .NET Framework 4.8** (Windows Forms + DevExpress)
 - 🛠️ No dia a dia mexo com **lógica de backend, criação de métodos, integração com DLLs e banco de dados MySQL**
-- 🚀 Desenvolvendo o **Fatura Social**, um app de gestão financeira com cobranças entre amigos (veja abaixo)
+- 🚀 Desenvolvendo o **Fatura Social**, um app de gestão financeira com cobranças entre amigos
 - 🌱 Aprofundando meus conhecimentos no ecossistema **.NET**
 - 🌐 Inglês avançado (C1)
 - 📫 Contato: [luis.filipe16301@gmail.com](mailto:luis.filipe16301@gmail.com)
