@@ -1,6 +1,6 @@
-<h1 align="center">Oi 👋, Eu sou Luis Filipe Rezende</h1>
+<h1 align="center">Oi 👋, eu sou o Luis Filipe Rezende</h1>
 
-<p align="center">Graduando em Análise e Desenvolvimento de Sistemas | Desenvolvedor .NET</p>
+<p align="center">Desenvolvedor .NET · Tecnólogo em Análise e Desenvolvimento de Sistemas</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisFilipe163&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,39 +10,47 @@
 
 ### Sobre mim
 
-- 🔭 Atualmente estagiando na **VidrosRio**, onde trabalho na manutenção e evolução de um sistema corporativo em **C# .NET Framework 4.8** (Windows Forms + DevExpress)
-- 🛠️ No dia a dia mexo com **lógica de backend, criação de métodos, integração com DLLs e banco de dados MySQL**
-- 🚀 Desenvolvendo o **Fatura Social**, um app de gestão financeira com cobranças entre amigos
-- 🌱 Aprofundando meus conhecimentos no ecossistema **.NET**
-- 🌐 Inglês avançado (C1)
-- 📫 Contato: [luis.filipe16301@gmail.com](mailto:luis.filipe16301@gmail.com)
+Sou desenvolvedor .NET, formado em Análise e Desenvolvimento de Sistemas pela UNISUAM e em Desenvolvimento Web pela Ampli. Passei quase dois anos mantendo o ERP de uma empresa em C# e hoje desenvolvo o Fatura Social, um app para controlar dívidas entre pessoas.
+
+- Procurando vaga de **desenvolvedor .NET júnior**, remota ou no Rio de Janeiro
+- Inglês avançado (C1)
+- Contato: [luis.filipe16301@gmail.com](mailto:luis.filipe16301@gmail.com)
 
 <br>
 
-### 💸 Projeto em destaque — Fatura Social
+### Experiência
 
-Aplicação desktop de gestão financeira pessoal com uma camada social de cobranças entre usuários. Um projeto **full-stack** que envolve cliente desktop, API própria e um cliente mobile em desenvolvimento.
+**VidrosRio** · Estagiário de Desenvolvimento de Software · ago/2024 a jul/2026
 
-**Destaques técnicos:**
+ERP em **C# .NET Framework 4.8**, com Windows Forms (DevExpress) e MySQL.
 
-- Arquitetura cliente-servidor com sincronização de estado entre usuários em tempo real
-- API REST própria (**ASP.NET Core + EF Core**) com autenticação **JWT** e comunicação via **SignalR**
-- Persistência local (**SQLite**) com sistema próprio de migrations e isolamento por conta
-- Integração com o ecossistema **Pix** (geração de QR Code e payload copia-e-cola)
-- Sistema de notificações com múltiplos gatilhos e controle de estado persistente
-- UI customizada do zero: design system próprio, temas claro/escuro e três modos de visualização de dados
-- Cliente mobile em **.NET MAUI** em desenvolvimento
-
-**Stack:** `C#` · `WPF` · `ASP.NET Core` · `EF Core` · `SQLite` · `SignalR` · `.NET MAUI`
+- Manutenção e evolução do sistema em produção: correção de falhas em código legado e otimização de consultas
+- Adequação da emissão de NF-e à **Reforma Tributária (IBS/CBS)**, com regras fiscais por tipo de operação e validação dos XMLs em homologação
+- API REST em **ASP.NET Core**, construída com um desenvolvedor sênior, para centralizar a emissão de notas fiscais, usando a ACBrLib e logs com NLog
 
 <br>
 
-### 🧰 Linguagens e Ferramentas
+### Projeto em destaque: [Fatura Social](https://github.com/LuisFilipe163/FaturaSocial)
+
+Dívida entre amigos costuma ficar anotada num papel, no bloco de notas ou perdida no grupo do WhatsApp. O Fatura Social registra quem te deve e a quem você deve. Se a outra pessoa também usa o app e vocês estão conectados, a cobrança chega para ela aceitar ou recusar.
+
+- App Android em **.NET MAUI com Blazor Hybrid** e versão desktop em **WPF**
+- API própria em **ASP.NET Core** com **EF Core**, autenticação JWT, avisos em tempo real via SignalR e notificações push
+- Funciona sem internet: o que você faz offline entra numa fila e é enviado quando a conexão volta, sem duplicar cobranças
+- Pix gerado pelo próprio app (QR Code e copia-e-cola, no padrão BR Code), com valores guardados em centavos para não errar nas somas
+- Mais de 490 testes automatizados com xUnit
+- Em fase de testes, ainda fora da Play Store
+
+<br>
+
+### Linguagens e ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -51,7 +59,7 @@ Aplicação desktop de gestão financeira pessoal com uma camada social de cobra
 
 <br>
 
-### 🔗 Minhas redes
+### Minhas redes
 
 <a href="https://www.linkedin.com/in/luis-filipe-rezende/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
